@@ -1,0 +1,4 @@
+mwclient
+requests
+urlparse
+json
